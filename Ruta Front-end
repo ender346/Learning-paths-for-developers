@@ -1,1 +1,55 @@
 Ruta para llegar a Junior Depelover en Tecnologias y Lenguajes enfocado en el Front-end.
+
+1. HTML
+2. CSS
+3. Lenguajes:
+   - JavaScript
+   - TypeScript
+
+4. Frameworks:
+   - React
+   - Angular
+   - Vue
+
+5. Bibliotecas y herramientas adicionales:
+   - Redux (para la gestión del estado en React)
+   - RxJS (para programación reactiva en JavaScript)
+   - Axios (para hacer solicitudes HTTP)
+   - Styled Components (para estilos en React)
+   - Material-UI (biblioteca de componentes para React)
+   - Bulma (framework CSS)
+
+6. Bootstrap:
+   - Grid system
+   - Componentes y estilos predefinidos
+   - Responsividad y adaptación a diferentes dispositivos
+
+7. Preprocesadores de CSS:
+   - Sass
+   - Less
+   - Stylus
+
+8. Empaquetadores y gestores de módulos:
+   - Webpack
+   - Parcel
+   - npm (Node Package Manager)
+   - Yarn
+
+9. Testing:
+   - Jest (para pruebas unitarias en JavaScript)
+   - Cypress (para pruebas end-to-end)
+
+10. Metodologías y patrones de diseño:
+    - BEM (Block Element Modifier)
+    - CSS Grid y Flexbox
+    - Mobile-First y Responsive Design
+
+11. Optimización y rendimiento:
+    - Minificación de archivos CSS y JavaScript
+    - Compresión de imágenes
+    - Caché y almacenamiento en el lado del cliente (local storage, session storage)
+    - Lazy loading y code splitting
+
+12. Accesibilidad web:
+    - ARIA (Accessible Rich Internet Applications)
+    - WCAG (Web Content Accessibility Guidelines)

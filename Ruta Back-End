@@ -1,1 +1,58 @@
 El desarrollo Back-End se ocupa de la lógica y la funcionalidad que ocurre detrás de escena en una aplicación web
+
+1. Lenguajes de programación:
+   - JAVA
+   - C#
+   - Python
+
+2. Control de versiones:
+   - GIT
+   - GITHUB
+   - PowerShell
+   - Bash
+
+3. API:
+   - CRUD
+   - Protocolos
+   - Rest—Json
+   - Soap—XML
+   - GraphQL
+
+4. Bases de datos relacionales (SQL):
+   - MySQL
+   - PostgreSQL
+   - MariaDB
+
+5. Bases de datos no relacionales (NoSQL):
+   - MongoDB
+   - Redis
+   - Neo4j
+
+6. Estructuras de datos:
+   - Arrays
+   - Pilas
+   - Colas
+   - Listas Enlazadas
+   - Hashmaps
+   - Árboles
+   - Grafos
+
+7. Algoritmos
+
+8. Frameworks del Back-end:
+   - Python / Flask
+   - Django / fastAPI
+   - JAVA / Spring
+   - C# / .NET
+
+9. ORM (Object Relational Mapping)
+
+10. Pruebas Unitarias
+
+11. Seguridad:
+    - Autenticación
+    - Algoritmos de Hashing
+    - HTTPS/HTTP/SSL/CORS
+    - OWASP
+
+12. Microservicios

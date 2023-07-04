@@ -1,1 +1,50 @@
 Desarrollo móvil: Los desarrolladores móviles se centran en la creación de aplicaciones para dispositivos móviles
+
+1. Fundamentos de programación:
+   - Lenguaje de programación (Java o Kotlin)
+   - Estructuras de datos
+   - Algoritmos
+
+2. Conceptos básicos de Android:
+   - Introducción a Android y su arquitectura
+   - Componentes principales de Android (Activities, Fragments, Services, Broadcast Receivers)
+   - Ciclo de vida de las actividades y fragmentos
+   - Recursos y layouts de Android (XML)
+   - Manejo de eventos y UI en Android
+
+3. Interfaz de usuario:
+   - Diseño de interfaces de usuario en Android (Material Design)
+   - Uso de vistas y widgets en Android
+   - Navegación y transiciones entre pantallas
+   - Personalización de vistas y estilos
+   - Adaptación a diferentes tamaños de pantalla y orientaciones
+
+4. Persistencia de datos:
+   - Uso de SQLite para el almacenamiento de datos en Android
+   - Uso de Room Persistence Library para simplificar el acceso a la base de datos
+   - Uso de SharedPreferences para el almacenamiento de preferencias
+   - Introducción a Content Providers y Content Resolvers
+
+5. Conectividad y servicios:
+   - Uso de HTTP y APIs REST en Android
+   - Consumo de servicios web y manejo de respuestas JSON
+   - Uso de servicios en segundo plano (Background Services)
+   - Uso de Firebase para servicios en la nube (Firebase Cloud Messaging, Firebase Authentication, etc.)
+
+6. Multimedia y sensores:
+   - Reproducción de audio y video en Android
+   - Captura de imágenes y videos utilizando la cámara del dispositivo
+   - Uso de sensores del dispositivo (GPS, acelerómetro, etc.)
+
+7. Publicación en Google Play:
+   - Preparación de la aplicación para su publicación
+   - Generación de certificados y firmado de la aplicación
+   - Registro y configuración de la cuenta de desarrollador en Google Play
+   - Subida de la aplicación a Google Play Console
+
+8. Mejores prácticas y rendimiento:
+   - Optimización de rendimiento en Android
+   - Manejo de errores y excepciones
+   - Pruebas y depuración en Android
+   - Uso de herramientas de desarrollo (Android Studio, ADB, etc.)
+   - Actualización y mantenimiento de aplicaciones

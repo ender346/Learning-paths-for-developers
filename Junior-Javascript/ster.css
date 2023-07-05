@@ -1,0 +1,29 @@
+body{
+    background: transparent;
+    border: 0;
+}
+
+.secction-tit{
+    padding: 2rem 2rem;
+    font-size: 2rem;
+    color: black;
+    background-color: azure;
+    border-radius: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    display: flexbox;
+    position: relative;
+}
+
+.secction-text {
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    color: black;
+    background-color: aquamarine;
+    border-radius: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    display: flexbox;
+    position: relative;
+}
+

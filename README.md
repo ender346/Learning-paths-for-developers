@@ -6,5 +6,7 @@ Para empezar descargaremos la IDE de VS code: https://code.visualstudio.com/ la 
 Paginas y Cursos para aprender mas:
 
 ORACLE: https://www.oracle.com/mx/education/oracle-next-education/
+<br>
 Code camp: https://www.freecodecamp.org/learn/
+<br>
 W3: https://www.w3schools.com/
